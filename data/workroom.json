@@ -1,0 +1,19 @@
+{
+    "patients": [
+        {
+            "cost": 12451,
+            "name": "Samasdf",
+            "rating": 10,
+            "personal health number": 124512,
+            "diagnosis": "asdf"
+        },
+        {
+            "cost": 5,
+            "name": "f",
+            "rating": 5,
+            "personal health number": 5,
+            "diagnosis": "f"
+        }
+    ],
+    "name": "Hospital"
+}

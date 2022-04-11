@@ -1,0 +1,19 @@
+{
+    "patients": [
+        {
+            "cost": 499.99,
+            "name": "Gordon Ramsay",
+            "rating": 3,
+            "personal health number": 193517720,
+            "diagnosis": "The patient has been diagnosed with Hepatitis B"
+        },
+        {
+            "cost": 0,
+            "name": "Walter White",
+            "rating": 1,
+            "personal health number": 626758001,
+            "diagnosis": "The patient has been diagnosed with type 1 diabetes"
+        }
+    ],
+    "name": "My hospital"
+}
